@@ -1,6 +1,10 @@
 # Welcome to the Youtube to Spotify Converter!
 
 This app allows you to convert a Youtube playlist containing songs and add those songs to an existing or new Spotify playlist.
+##  Demo Video
+
+https://github.com/howtofly-lab/Youtube-to-Spotify-Converter/assets/76920083/12a2af70-6ce5-41d0-b0f4-74edb2b3d627
+
 
 ## Getting Started
 
