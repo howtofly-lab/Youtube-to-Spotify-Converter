@@ -31,5 +31,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to use the
 
 ## Notes
 
-This project is currently under development so the "Create Playlist" functionality is not currently ready. However, you can still transfer a Youtube playlist to an existing playlist as of now.
+This project is currently under development so the "Create Playlist" functionality is not currently ready. However, you can still transfer a YouTube playlist to an existing playlist as of now.
 
