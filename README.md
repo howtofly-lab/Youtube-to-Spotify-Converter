@@ -27,9 +27,3 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to use the
 4. Once logged into Spotify, click on "Use Existing Playlist".
 5. Once there, choose a Spotify playlist of your choice to transfer the Youtube songs to.
 6. Finally, click the "Submit Request" button. Once conversion is finished you will be redirected to the Spotify playlist you chose with the new songs added!
-
-
-## Notes
-
-This project is currently under development so the "Create Playlist" functionality is not currently ready. However, you can still transfer a YouTube playlist to an existing playlist as of now.
-
