@@ -35,7 +35,6 @@ const fetchYTSongs = async (req, res) => {
 
   const token = await getToken({ req, secret, encryption: true });
 
-  
   accessToken = token?.accessToken;
 
   const userId = session.user.id;
