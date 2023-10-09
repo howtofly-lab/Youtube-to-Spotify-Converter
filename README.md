@@ -8,7 +8,7 @@ https://github.com/howtofly-lab/Youtube-to-Spotify-Converter/assets/76920083/12a
 
 ## Getting Started
 
-To use this app, first download the repo then cd to the folder on your computer. Then to start the app run:
+To use this app, first download the repo then cd to the folder on your computer. Then, to start the app run:
 
 ```bash
 npm run dev
